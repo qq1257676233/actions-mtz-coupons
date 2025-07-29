@@ -1,10 +1,10 @@
 ![外卖神券天天领](https://p0.meituan.net/dptakeaway/11b0b51183806e09f55a530fc0dd0409328863.jpg)
 
-# 🧧【美团】外卖神券天天领
+# 🧧【美团】新年外卖神券天天领 🎊🐲
 
 ![workflow](https://img.shields.io/github/actions/workflow/status/vv314/actions-mtz-coupons/grab-coupon.yml?branch=main&label=%E9%A2%86%E7%BA%A2%E5%8C%85&logo=github%20actions&style=flat) ![release](https://img.shields.io/github/v/release/vv314/actions-mtz-coupons) ![update](https://img.shields.io/github/last-commit/vv314/actions-mtz-coupons/main?label=update) ![fork](https://img.shields.io/github/forks/vv314/actions-mtz-coupons)
 
-外卖神券天天领，超值红包享不停；以自动化的方式领取美团红包。
+🎉 新年外卖神券天天领，超值红包享不停；以自动化的方式领取美团红包，祝您龙年大吉！🐲
 
 > ★ 专注领劵，不搞杂七杂八<br/>★ 多帐号支持，全村都能配上<br/>★ 并行化任务，数管齐下更有效率<br/>★ 异常重试，一次不行再来一次<br/>★ 多路消息通知，总有一个到达你<br/>★ Github Actions 部署，从未如此简单
 
